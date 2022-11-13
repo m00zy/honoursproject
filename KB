@@ -1,0 +1,33 @@
+Means of each attribute
+Age, 2.9
+Drugs 1.0
+Drinks, 3.7
+Smokes 1.2
+Height 7.2
+
+70th Percentile
+
+Age 4.12
+Drugs 5
+Drinks 4
+Smokes 5
+Height 7.44
+
+One standard deviation above mean
+Age 6.17
+Drugs 3.53
+Drinks 6.32
+Smokes 3.78
+Height 9.68
+
+Wealthy : income > 80,000
+Young : age < 30
+Healthy : drugs == "Not at all" && smokes == "No"
+Tall : height >= 180
+Liker : Preference always returns True
+Disliker : Preference always return False
+Random : Preference has 50% chance to return True, 50% chance to return False
+Vague : Constraints on preference is mean, constraints on target profile is 70th percentile
+Certain : Constraints on both preference and target profile is 70th percentile
+
+

@@ -1,0 +1,2 @@
+categorical,status,sex,orientation,body_type,diet,drinks,drugs,education,ethnicity,job,location,offspring,pets,religion,sign,smokes,speaks
+numerical,age,height,income
